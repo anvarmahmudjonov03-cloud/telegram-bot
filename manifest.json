@@ -1,0 +1,17 @@
+{
+  "name": "Premium Store — Telegram Mini App",
+  "short_name": "Premium Store",
+  "description": "Buy Telegram Premium, Stars and Gifts instantly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#2aabee",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
